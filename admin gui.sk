@@ -1,0 +1,6 @@
+command /adminm:
+	trigger:
+		open chest with 3 rows named "&l&2Admin Menu" to player
+		wait 1 tick
+		format slot 0 of player with paper named "&r&lskript reload" to close then run [make player execute command "skript reload all"]
+

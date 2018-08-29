@@ -1,0 +1,2 @@
+on join:
+	message "§2§lwelcome, %player%"

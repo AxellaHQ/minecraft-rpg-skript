@@ -1,0 +1,4 @@
+on left click holding a tnt:
+	name of held item contains "&l&cTNTThrower"
+	remove 1 of tnt from player
+	shoot a tnt from player

@@ -1,0 +1,3 @@
+on right click on a sign:
+	if line 1 of block is "Ticket office":
+		set line 1 of block to "&l&1[Ticket office]"

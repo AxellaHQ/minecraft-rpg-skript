@@ -1,0 +1,2 @@
+on rightclick with nether star:
+	name of held item contains ""
